@@ -1,0 +1,139 @@
+/* Your styles here */
+body{
+   color: #393d41;
+   padding: 1.2rem;
+   font-family: 'Open Sans';
+   line-height: 1.65;
+}
+h1, h2{
+   color: #25a2c3;
+   font-family: 'Montserrat', sans-serif;
+   line-height: 1.5;
+   font-weight: 700;
+}
+
+/*HEADER*/
+
+header{
+   color: #25a2c3;
+   font-family: 'Montserrat (bold)';
+   line-height: 1.5;
+   background-color: black;
+   text-align: center;
+}
+
+#logo-epicode{
+   width: 40%;
+   height: 40%;
+   padding: 2em;
+}
+
+#header-content{
+   background-image: url("banner.jpg");
+   background-color: white;
+   background-size: cover;
+   background-position-x: center;
+   padding: 3em 2em;
+   
+}
+
+header h1{
+   font-size: xx-large;
+   padding: 0.5em 2em 0.5em;
+   word-wrap: break-word;
+   line-height: 1;
+}
+
+header p{
+   padding: 0.5em 2.3em 0.5em;
+   margin-bottom: 1.3em;
+   color: black;
+}
+
+header button{
+   background-color: orangered;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   
+   
+}
+
+header a{
+   color: white;
+}
+
+
+
+/*MAIN*/
+#notebook{
+   border-radius: 50%;
+}
+
+.testimonianze{
+   background-color: #e22d0e;
+   color: white;
+   text-align: center;
+   width: 432px;
+   
+}
+
+.testimonianze h1{
+   color: white;
+   font-size: x-large;
+   padding-bottom: 1em;
+   padding-top: 1em;
+}
+
+
+
+.testimonianze p{
+   color: white;
+   font-style: oblique;
+}
+
+.testimonianze address{
+   padding-top: 1em;
+   font-style: none;
+
+}
+
+.schede{
+   border: #dee13e;
+   padding-top: 3em;
+}
+
+.schede img{
+   width: 25em;
+   margin: auto;
+}
+
+.third-section{
+   padding-bottom: 3em;
+}
+/*FOOTER*/
+
+footer{
+   color: #c8e7f0;
+   background-color: #25a2c3;
+   width: 100%;
+   text-align: center;
+   padding-top: 3em;
+}
+
+footer h1{
+   color: white;
+   font-size: 2em;
+   font-weight: 700;
+   padding: 1em 0em 0.5em 0em;
+}
+
+address ul li a{
+   color: white;
+   
+}
+
+#class-line{
+   color: #c8e7f0;
+   padding-top: 2em;
+   padding-bottom: 2em;
+}
